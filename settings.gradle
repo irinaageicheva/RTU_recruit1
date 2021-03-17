@@ -1,0 +1,5 @@
+rootProject.name = 'ROOT'
+include 'common'
+include 'shops'
+include 'asd'
+include 'proxy'
